@@ -42,7 +42,7 @@
 #  MONGODB_URI = "Your MongoDB URI"
 #  MONGODB_DATABASE = "A database name to host the tasks (eg. tasks_netlify)"
 #  MONGODB_COLLECTION = "A collection name to store the tasks (eg. tasks)"
-  MONGODB_URI = mongodb+srv://Cluster86485:Fama1234@cluster86485.jyprh.mongodb.net/?authSource=admin
+ATLAS_URI=mongodb+srv://Cluster86485:Fama1234@cluster86485.jyprh.mongodb.net/?authSource=admin
 
 
 
