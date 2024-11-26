@@ -1,6 +1,6 @@
-[build]
-  command = "npm install && npm run build"
-  publish = "/dist"
+# [build]
+#   command = "npm install && npm run build"
+#   publish = "/dist"
 
 # Comment out redirects temporarily for testing
 #[[redirects]]
